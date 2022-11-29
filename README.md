@@ -11,8 +11,8 @@
 
 <div align="center">
   <a href="https://github.com/YagoLagrottiBracco">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=YagoLagrottiBracco&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=235e71&icon_color=4c71f2&text_color=82c3d9&title_color=add8e6&border_radius=20&text_bold=true&ring_color=f7fbfd"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagoLagrottiBracco&layout=compact&langs_count=6&theme=tokyonight&border_color=235e71&icon_color=4c71f2&text_color=82c3d9&title_color=add8e6&border_radius=20&text_bold=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YagoLagrottiBracco&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=235e71&icon_color=4c71f2&text_color=82c3d9&title_color=add8e6&border_radius=20&text_bold=true&ring_color=f7fbfd"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagoLagrottiBracco&layout=compact&langs_count=6&theme=tokyonight&border_color=235e71&icon_color=4c71f2&text_color=82c3d9&title_color=add8e6&border_radius=20&text_bold=true"/>
 </div>
 
 ## 🤓 Conhecimentos
