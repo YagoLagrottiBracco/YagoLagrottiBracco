@@ -21,6 +21,8 @@
     <img align="center" alt="YagoLagrottiBracco-HTML" title="HTML 5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="YagoLagrottiBracco-CSS" title="CSS 3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="YagoLagrottiBracco-Js" title="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="YagoLagrottiBracco-ReactJS" title="ReactJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    <img align="center" alt="YagoLagrottiBracco-NextJS" title="NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
     <img align="center" alt="YagoLagrottiBracco-VueJS" title="VueJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
     <img align="center" alt="YagoLagrottiBracco-Tailwind" title="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
     <img align="center" alt="YagoLagrottiBracco-Bootstrap" title="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
@@ -30,10 +32,11 @@
 
 ### Backend
 <div>
-  <img align="center" alt="YagoLagrottiBracco-Laravel" title="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
-  <img align="center" alt="YagoLagrottiBracco-Php" title="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="YagoLagrottiBracco-Nodejs" title="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="YagoLagrottiBracco-TypeScript" title="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="YagoLagrottiBracco-NestJS" title="NestJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
+  <img align="center" alt="YagoLagrottiBracco-Laravel" title="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
+  <img align="center" alt="YagoLagrottiBracco-Php" title="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="YagoLagrottiBracco-CodeIgniter" title="CodeIgniter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg">
   <img align="center" alt="YagoLagrottiBracco-Dart" title="Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
 
@@ -45,6 +48,7 @@
 
 ### Databases
 <div>
+  <img align="center" alt="YagoLagrottiBracco-MongoDB" title="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="YagoLagrottiBracco-MySQL" title="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="YagoLagrottiBracco-PostgreSQL" title="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="YagoLagrottiBracco-Oracle" title="Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
