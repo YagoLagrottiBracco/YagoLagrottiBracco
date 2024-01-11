@@ -3,8 +3,8 @@
 
 
 - 🔭 Hoje trabalhando como Desenvolvedor Fullstack e se aventurando no mundo empresárial
-- 🌱 Atualmente estudando sobre Flutter, Vue.JS, Laravel e MySQL
-- 📫 Entre em contato comigo pelo site: htpps://pixelprime.com.br
+- 🌱 Atualmente estudando sobre stack JS (NextJS, NestJS, MongoDB, TDD e DDD)
+- 📫 Entre em contato comigo pelo email: yago.lagrotti@outlook.com
 - 🎓 Formado em Analise e Desenvolvimento de Sistemas em 2018 e Gerenciamento de Projetos em 2022
 
 <br>
