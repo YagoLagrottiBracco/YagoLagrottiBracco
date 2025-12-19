@@ -157,4 +157,4 @@ Tenho vivência tanto no desenvolvimento técnico quanto na gestão de projetos,
 
 ---
 
-![Snake animation](https://github.com/yagolagrottibracco/yagolagrottibracco/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/YagoLagrottiBracco/YagoLagrottiBracco/blob/main/github-user-contribution.svg)
