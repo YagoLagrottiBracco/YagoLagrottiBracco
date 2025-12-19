@@ -1,82 +1,160 @@
-# 🖐️ Olá, eu sou o Yago! <br>
-### Constantemente em busca de novos conhecimentos!
+# Yago Lagrotti Bracco
 
+**Full Stack Engineer | DevOps | Product-Oriented Developer**
 
-- 🔭 Hoje trabalhando como Desenvolvedor Fullstack e se aventurando no mundo empresárial
-- 🌱 Atualmente estudando sobre stack JS (NextJS, NestJS, MongoDB, TDD e DDD)
-- 📫 Entre em contato comigo pelo email: yago.lagrotti@outlook.com
-- 🎓 Formado em Analise e Desenvolvimento de Sistemas em 2018 e Gerenciamento de Projetos em 2022
+Desenvolvedor Full Stack com experiência na construção de aplicações escaláveis, APIs robustas e arquitetura orientada a boas práticas.  
+Atuo com foco em qualidade de código, performance, manutenção a longo prazo e visão de negócio.
 
-<br>
+Tenho vivência tanto no desenvolvimento técnico quanto na gestão de projetos, unindo execução prática com organização, metodologia e entrega consistente.
+
+---
+
+### 🚀 Explore meus projetos
+
+- Confira meus repositórios para ver implementações reais, arquiteturas e soluções em produção  
+- Acesse meu site para conhecer projetos selecionados, estudos de caso e contexto de negócio  
+
+👉 **GitHub:** https://github.com/YagoLagrottiBracco  
+👉 **Site:** https://lagrotti.dev
+
+---
+
+## 👨‍💻 Atuação Profissional
+
+- Desenvolvimento de aplicações web e APIs escaláveis  
+- Arquitetura de sistemas com foco em performance e manutenibilidade  
+- Integrações complexas entre sistemas e serviços externos  
+- Criação e evolução de produtos digitais  
+- Automação de processos e infraestrutura  
+- Participação ativa em decisões técnicas e de negócio  
+
+---
+
+## 🎓 Formação
+
+- **Análise e Desenvolvimento de Sistemas** — 2018  
+- **Gerenciamento de Projetos** — 2022  
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/YagoLagrottiBracco">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YagoLagrottiBracco&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=235e71&icon_color=4c71f2&text_color=82c3d9&title_color=add8e6&border_radius=20&text_bold=true&ring_color=f7fbfd"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagoLagrottiBracco&layout=compact&langs_count=6&theme=tokyonight&border_color=235e71&icon_color=4c71f2&text_color=82c3d9&title_color=add8e6&border_radius=20&text_bold=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YagoLagrottiBracco&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagoLagrottiBracco&layout=compact&langs_count=6&theme=tokyonight&border_radius=12"/>
 </div>
 
-## 🤓 Conhecimentos
+---
+
+## 🧠 Stack Técnica
+
 ### Frontend
 <div>
-    <img align="center" alt="YagoLagrottiBracco-HTML" title="HTML 5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="YagoLagrottiBracco-CSS" title="CSS 3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="YagoLagrottiBracco-Js" title="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="YagoLagrottiBracco-ReactJS" title="ReactJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-    <img align="center" alt="YagoLagrottiBracco-NextJS" title="NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-    <img align="center" alt="YagoLagrottiBracco-VueJS" title="VueJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-    <img align="center" alt="YagoLagrottiBracco-Tailwind" title="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
-    <img align="center" alt="YagoLagrottiBracco-Bootstrap" title="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-    <img align="center" alt="YagoLagrottiBracco-Js" title="Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/>
+  <img height="30" src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/logo.svg"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"/>
 </div>
 
+---
 
 ### Backend
 <div>
-  <img align="center" alt="YagoLagrottiBracco-Nodejs" title="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="YagoLagrottiBracco-TypeScript" title="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="YagoLagrottiBracco-NestJS" title="NestJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
-  <img align="center" alt="YagoLagrottiBracco-Laravel" title="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
-  <img align="center" alt="YagoLagrottiBracco-Php" title="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="center" alt="YagoLagrottiBracco-CodeIgniter" title="CodeIgniter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg">
-  <img align="center" alt="YagoLagrottiBracco-Dart" title="Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg"/>
+  <img height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg"/>
+</div>
+
+---
 
 ### Mobile
 <div>
-  <img align="center" alt="YagoLagrottiBracco-Flutter" title="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="center" alt="YagoLagrottiBracco-ReactNative" title="ReactNative" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"/>
 </div>
+
+---
 
 ### Databases
 <div>
-  <img align="center" alt="YagoLagrottiBracco-MongoDB" title="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="YagoLagrottiBracco-MySQL" title="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="YagoLagrottiBracco-PostgreSQL" title="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="YagoLagrottiBracco-Oracle" title="Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg"/>
 </div>
 
-### Servers
+---
+
+### IA & Automação
 <div>
-  <img align="center" alt="YagoLagrottiBracco-Docker" title="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="YagoLagrottiBracco-AWS" title="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
-  <img align="center" alt="YagoLagrottiBracco-DigitalOcean" title="DigitalOcean" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg">
-  <img align="center" alt="YagoLagrottiBracco-Linux" title="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg"/>
+  <img height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg"/>
+  <img height="30" src="https://huggingface.co/favicon.ico"/>
 </div>
 
-### Gestão
-- Gestão de Projetos
-  - Gestão completa de projetos com o foco em desenvolvimento, desde a fase inicial do projeto até a finalização e entrega
-- SCRUM
-  - Utilizando metodologias ágeis como SCRUM desde o inicio de desenvolvimento
-- Metodologias ágeis
-  - Estudante e curioso de tudo que envolva as metodologias ágeis em geral
+---
 
-## #️⃣ Me encontre também nas redes sociais
-<div> 
-  <a href="https://www.facebook.com/yago.lagrotti" target="_blank"><img src="https://img.shields.io/badge/Facebook-3982E4?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href = "mailto:yago.lagrotti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/yago-lagrotti-bracco" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/YagoLagrotti" target="_blank"><img src="https://img.shields.io/badge/-Twitter-ffffff?style=for-the-badge&logo=twitter&logoColor=blue" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/yagolagrottibracco/yagolagrottibracco/blob/output/github-contribution-grid-snake.svg)
- 
+### DevOps & Infra
+<div>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+  <img height="30" src="https://raw.githubusercontent.com/coollabsio/coolify/main/apps/ui/public/favicon.svg"/>
 </div>
+
+---
+
+## 📈 Gestão & Metodologias
+
+- Gestão de projetos de software ponta a ponta  
+- SCRUM e metodologias ágeis  
+- Organização de backlog e entregas contínuas  
+- Visão orientada a produto e valor de negócio  
+
+---
+
+## 🌐 Contato & Projetos
+
+- 🌐 Site & Portfólio: **https://lagrotti.dev**  
+- 💻 Repositórios: **https://github.com/YagoLagrottiBracco**  
+- 📧 Email: **yago.lagrotti@outlook.com**  
+- 🔗 LinkedIn: https://www.linkedin.com/in/yago-lagrotti-bracco  
+
+📌 *Nos repositórios você encontra projetos open source, provas de conceito e soluções reais.*  
+📌 *No site apresento projetos selecionados, visão técnica e contexto de negócio.*
+
+---
+
+![Snake animation](https://github.com/yagolagrottibracco/yagolagrottibracco/blob/output/github-contribution-grid-snake.svg)
