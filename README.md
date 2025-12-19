@@ -69,7 +69,7 @@ Tenho vivência tanto no desenvolvimento técnico quanto na gestão de projetos,
   <a href="https://getbootstrap.com/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/></a>
   <a href="https://vitejs.dev/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg"/></a>
   <a href="https://redux.js.org/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/></a>
-  <a href="https://zustand-demo.pmnd.rs/"><img height="30" src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/logo.svg"/></a>
+  <a href="https://zustand-demo.pmnd.rs/" target="_blank"><img height="30" src="https://cdn.simpleicons.org/zustand/000000"/></a>
   <a href="https://graphql.org/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"/></a>
 </div>
 
@@ -114,7 +114,7 @@ Tenho vivência tanto no desenvolvimento técnico quanto na gestão de projetos,
   <a href="https://aws.amazon.com/"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/></a>
   <a href="https://www.digitalocean.com/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg"/></a>
   <a href="https://nginx.org/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"/></a>
-  <a href="https://traefik.io/traefik/"><img height="30" src="https://raw.githubusercontent.com/traefik/traefik/master/docs/content/assets/img/traefik.logo.png"/></a>
+  <a href="https://traefik.io/traefik/" target="_blank"><img height="30" src="https://cdn.simpleicons.org/traefikproxy/24A1C1"/></a>
   <a href="https://coolify.io/"><img height="30" src="https://coolify.io/favicon.ico"/></a>
   <a href="https://www.kernel.org/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/></a>
 </div>
