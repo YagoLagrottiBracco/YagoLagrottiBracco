@@ -69,7 +69,7 @@ Tenho vivência tanto no desenvolvimento técnico quanto na gestão de projetos,
   <a href="https://getbootstrap.com/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/></a>
   <a href="https://vitejs.dev/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg"/></a>
   <a href="https://redux.js.org/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/></a>
-  <a href="https://zustand-demo.pmnd.rs/" target="_blank"><img height="30" src="https://cdn.simpleicons.org/zustand/000000"/></a>
+  <a href="https://zustand-demo.pmnd.rs/" target="_blank"><img height="30" src="https://zustand-demo.pmnd.rs/favicon.ico"/></a>
   <a href="https://graphql.org/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"/></a>
 </div>
 
