@@ -44,6 +44,8 @@ Tenho vivência tanto no desenvolvimento técnico quanto na gestão de projetos,
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagoLagrottiBracco&layout=compact&langs_count=6&theme=tokyonight&border_radius=12"/>
 </div>
 
+![Snake animation](https://github.com/YagoLagrottiBracco/YagoLagrottiBracco/blob/main/github-user-contribution.svg)
+
 ---
 
 ## 🧠 Stack Técnica
@@ -154,7 +156,3 @@ Tenho vivência tanto no desenvolvimento técnico quanto na gestão de projetos,
 
 📌 *Nos repositórios você encontra projetos open source, provas de conceito e soluções reais.*  
 📌 *No site apresento projetos selecionados, visão técnica e contexto de negócio.*
-
----
-
-![Snake animation](https://github.com/YagoLagrottiBracco/YagoLagrottiBracco/blob/main/github-user-contribution.svg)
