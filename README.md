@@ -14,7 +14,13 @@ Tenho vivência tanto no desenvolvimento técnico quanto na gestão de projetos,
 - Confira meus repositórios para ver implementações reais, arquiteturas e soluções em produção  
 - Acesse meu site para conhecer projetos selecionados, estudos de caso e contexto de negócio  
 
-👉 **GitHub:** https://github.com/YagoLagrottiBracco  
+**Projetos em destaque:**
+- 🧪 **PulseWatch** (pré-lançamento): https://pulsewatch.click  
+  *Plataforma em desenvolvimento, atualmente em fase final antes do lançamento público.*
+
+- 📅 **Agendify**: https://agendify.me  
+  *Plataforma de agendamento online voltada para pequenos negócios e profissionais autônomos.*
+ 
 👉 **Site:** https://lagrotti.dev
 
 ---
@@ -149,7 +155,6 @@ Tenho vivência tanto no desenvolvimento técnico quanto na gestão de projetos,
 ## 🌐 Contato & Projetos
 
 - 🌐 Site & Portfólio: **https://lagrotti.dev**  
-- 💻 Repositórios: **https://github.com/YagoLagrottiBracco**  
 - 📧 Email: **yago.lagrotti@outlook.com**  
 - 🔗 LinkedIn: https://www.linkedin.com/in/yago-lagrotti-bracco  
 
