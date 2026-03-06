@@ -45,10 +45,10 @@ Tenho vivência tanto no desenvolvimento técnico quanto na gestão de projetos,
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YagoLagrottiBracco&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagoLagrottiBracco&layout=compact&langs_count=6&theme=tokyonight&border_radius=12"/>
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YagoLagrottiBracco&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagoLagrottiBracco&layout=compact&langs_count=6&theme=tokyonight"/>
+</p>
 
 ---
 
