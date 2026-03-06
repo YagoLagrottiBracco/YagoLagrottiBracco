@@ -1,45 +1,47 @@
 # Yago Lagrotti Bracco
 
-**Full Stack Engineer | DevOps | Product-Oriented Developer**
+**Senior Software Engineer | Event-Driven Architecture | AI & Autonomous Systems**
 
-Desenvolvedor Full Stack com experiência na construção de aplicações escaláveis, APIs robustas e arquitetura orientada a boas práticas.  
-Atuo com foco em qualidade de código, performance, manutenção a longo prazo e visão de negócio.
+Desenvolvedor Sênior com mais de 10 anos de experiência focados na construção de arquiteturas escaláveis (Event-Driven) e no desenvolvimento de agentes autônomos. 
 
-Tenho vivência tanto no desenvolvimento técnico quanto na gestão de projetos, unindo execução prática com organização, metodologia e entrega consistente.
+Atualmente, dedico-me a resolver problemas de alta volumetria, unindo as melhores práticas de engenharia (Clean Architecture, DDD, Testes Automatizados) com o poder disruptivo da Inteligência Artificial Generativa (LLMs), transformando gargalos operacionais em eficiência invisível.
 
 ---
 
-### 🚀 Explore meus projetos
+### 🚀 Projetos em Destaque
 
-- Confira meus repositórios para ver implementações reais, arquiteturas e soluções em produção  
-- Acesse meu site para conhecer projetos selecionados, estudos de caso e contexto de negócio  
+- Confira meus repositórios para ver implementações reais (código limpo, microsserviços e integrações complexas).
+- Acesse meu site para conhecer os estudos de caso, arquiteturas e o impacto de negócio de cada produto.
 
-**Projetos em destaque:**
-- 🧪 **PulseWatch** (pré-lançamento): https://pulsewatch.click  
-  *Plataforma em desenvolvimento, atualmente em fase final antes do lançamento público.*
+**Sistemas & Arquitetura de Escala:**
+- ⚡ **[PulseWatch](https://pulsewatch.click/)**: SaaS de monitoramento contínuo de e-commerces com alertas imediatos via múltiplos canais (Node.js, TypeScript, PostgreSQL).
+- 🛡️ **[Normify](https://normify.app/)**: Plataforma para gestão de compliance e conformidade com painéis e automação de alertas (Vue.js, Node.js, PostgreSQL).
+- 📅 **[Agendify](https://agendify.me/)**: Plataforma de agendamentos self-service com notificações automáticas e gestão completa de clientes (React, Node.js, MongoDB).
 
-- 📅 **Agendify**: https://agendify.me  
-  *Plataforma de agendamento online voltada para pequenos negócios e profissionais autônomos.*
+**Sistemas Autônomos & Inteligência Artificial:**
+- 🤖 **DevAgent**: Sistema integrado de Kanban que atua como um desenvolvedor virtual. A IA lê os requisitos, escreve a lógica, roda os testes automatizados e faz a entrega via PR direto no GitHub.
+- 🧠 **[Ikigai IA](https://florir.online/)**: Motor de análise interativa focado em desenvolvimento pessoal, construído com engenharia de prompt avançada e LLMs.
+- 🧩 **[99Freelas Proposal Assistant](https://chromewebstore.google.com/detail/gfejcpifdmhhfelnjbkaiblbfkfagcgn)**: Extensão nativa que utiliza IA para analisar o escopo de vagas e gerar propostas comerciais altamente persuasivas em segundos.
 
-👉 **Site:** https://lagrotti.dev
+👉 **Portfólio Completo e Estudos de Caso:** https://lagrotti.dev
 
 ---
 
 ## 👨‍💻 Atuação Profissional
 
-- Desenvolvimento de aplicações web e APIs escaláveis  
-- Arquitetura de sistemas com foco em performance e manutenibilidade  
-- Integrações complexas entre sistemas e serviços externos  
-- Criação e evolução de produtos digitais  
-- Automação de processos e infraestrutura  
-- Participação ativa em decisões técnicas e de negócio  
+- Desenvolvedor Sênior & Arquiteto de IA Independente.
+- Arquitetura de sistemas distribuídos e de alta disponibilidade.
+- Criação e integração de Agentes de Inteligência Artificial em fluxos de trabalho (LangChain, OpenAI, LLMs Locais).
+- Liderança técnica na transição de monolitos para microsserviços/Event-Driven.
+- Automação extrema de infraestrutura, CI/CD e rotinas de desenvolvimento.
 
 ---
 
-## 🎓 Formação
+## 🎓 Formação Acadêmica & Pesquisa
 
-- **Análise e Desenvolvimento de Sistemas** — 2018  
-- **Gerenciamento de Projetos** — 2022  
+- 🎓 **Mestrado em Ciência da Computação** — Universidade Federal de São Carlos (PPGCC/UFSCar) | *Em andamento*
+- 🎓 **Pós-graduação em Gerenciamento de Projetos** — Senac | *2022*
+- 🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas** — Fatec | *2018*
 
 ---
 
@@ -54,87 +56,64 @@ Tenho vivência tanto no desenvolvimento técnico quanto na gestão de projetos,
 
 ## 🧠 Stack Técnica
 
-### Frontend
+### Inteligência Artificial & Automação
 <div>
-  <a href="https://developer.mozilla.org/docs/Web/HTML"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></a>
-  <a href="https://developer.mozilla.org/docs/Web/CSS"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></a>
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a>
-  <a href="https://www.typescriptlang.org/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/></a>
-  <a href="https://react.dev/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></a>
-  <a href="https://nextjs.org/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/></a>
-  <a href="https://vuejs.org/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/></a>
-  <a href="https://svelte.dev/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg"/></a>
-  <a href="https://angular.io/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/></a>
-  <a href="https://tailwindcss.com/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/></a>
-  <a href="https://getbootstrap.com/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/></a>
-  <a href="https://vitejs.dev/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg"/></a>
-  <a href="https://redux.js.org/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/></a>
-  <a href="https://zustand-demo.pmnd.rs/" target="_blank"><img height="30" src="https://zustand-demo.pmnd.rs/favicon.ico"/></a>
-  <a href="https://graphql.org/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"/></a>
+  <img height="30" src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white"/>
+  <img height="30" src="https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=LangChain&logoColor=white"/>
+  <img height="30" src="https://img.shields.io/badge/Prompt%20Engineering-FF9900.svg?style=for-the-badge&logoColor=white"/>
+  <img height="30" src="https://img.shields.io/badge/TensorFlow.js-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
 </div>
 
----
+<br/>
 
-### Backend
+### Backend & Arquitetura
 <div>
   <a href="https://nodejs.org/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></a>
-  <a href="https://expressjs.com/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/></a>
   <a href="https://nestjs.com/"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg"/></a>
-  <a href="https://www.php.net/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/></a>
-  <a href="https://laravel.com/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"/></a>
-  <a href="https://symfony.com/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg"/></a>
-  <a href="https://www.python.org/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></a>
-  <a href="https://fastapi.tiangolo.com/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/></a>
-  <a href="https://flask.palletsprojects.com/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/></a>
-  <a href="https://redis.io/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/></a>
-  <a href="https://www.rabbitmq.com/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg"/></a>
+  <a href="https://go.dev/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/></a>
+  <a href="https://www.typescriptlang.org/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/></a>
   <a href="https://kafka.apache.org/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg"/></a>
-  <a href="https://n8n.io/"><img height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg"/></a>
+  <a href="https://www.rabbitmq.com/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg"/></a>
+  <a href="https://redis.io/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/></a>
+  <a href="https://fastapi.tiangolo.com/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/></a>
+  <a href="https://laravel.com/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"/></a>
 </div>
 
----
+<br/>
 
-### Databases
+### Databases (OLTP & OLAP)
 <div>
   <a href="https://www.postgresql.org/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/></a>
-  <a href="https://www.mysql.com/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/></a>
+  <a href="https://clickhouse.com/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clickhouse/clickhouse-original.svg"/></a>
   <a href="https://www.mongodb.com/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/></a>
-  <a href="https://redis.io/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/></a>
-  <a href="https://www.sqlite.org/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/></a>
-  <a href="https://mariadb.org/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg"/></a>
-  <a href="https://www.elastic.co/elasticsearch/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg"/></a>
+  <a href="https://www.mysql.com/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/></a>
 </div>
 
----
+<br/>
+
+### Frontend
+<div>
+  <a href="https://nextjs.org/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/></a>
+  <a href="https://react.dev/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></a>
+  <a href="https://vuejs.org/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/></a>
+  <a href="https://tailwindcss.com/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/></a>
+  <a href="https://vitejs.dev/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg"/></a>
+</div>
+
+<br/>
 
 ### DevOps & Infra
 <div>
   <a href="https://www.docker.com/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/></a>
   <a href="https://kubernetes.io/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/></a>
   <a href="https://aws.amazon.com/"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/></a>
-  <a href="https://www.digitalocean.com/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg"/></a>
-  <a href="https://nginx.org/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"/></a>
+  <a href="https://www.kernel.org/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/></a>
   <a href="https://traefik.io/traefik/" target="_blank"><img height="30" src="https://cdn.simpleicons.org/traefikproxy/24A1C1"/></a>
   <a href="https://coolify.io/"><img height="30" src="https://coolify.io/favicon.ico"/></a>
-  <a href="https://www.kernel.org/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/></a>
 </div>
 
 ---
 
-## 📈 Gestão & Metodologias
+## 🌐 Contato & Conexões
 
-- Gestão de projetos de software ponta a ponta  
-- SCRUM e metodologias ágeis  
-- Organização de backlog e entregas contínuas  
-- Visão orientada a produto e valor de negócio  
-
----
-
-## 🌐 Contato & Projetos
-
-- 🌐 Site & Portfólio: **https://lagrotti.dev**  
-- 📧 Email: **yago.lagrotti@outlook.com**  
-- 🔗 LinkedIn: https://www.linkedin.com/in/yago-lagrotti-bracco  
-
-📌 *Nos repositórios você encontra projetos open source, provas de conceito e soluções reais.*  
-📌 *No site apresento projetos selecionados, visão técnica e contexto de negócio.*
+- 🌐 Site & Portfólio: **https://lagrotti.dev** - 📧 Email: **yago.lagrotti@outlook.com** - 🔗 LinkedIn: **[yagolagrottibracco](https://www.linkedin.com/in/yagolagrottibracco)** 📌 *Acesse os repositórios abaixo para ver código em ação, ou visite meu portfólio para entender como essas tecnologias resolvem problemas de negócio.*
